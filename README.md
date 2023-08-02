@@ -28,7 +28,7 @@
 ![image](https://github.com/safiyekaytan/CV-Web-Application/assets/95499415/4b830af8-0c0c-4272-99cd-bbe59d87dfe1)
 
 
-
+Download your CV using the download button!
 
 
 https://github.com/safiyekaytan/CV-Web-Application/assets/95499415/bbff4978-f132-480a-98f0-6e626597318e
