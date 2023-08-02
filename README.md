@@ -29,7 +29,11 @@
 
 
 
-https://github.com/safiyekaytan/CV-Web-Application/assets/95499415/ce940432-92a7-4275-bcac-08c9c56e1bcb
+
+
+https://github.com/safiyekaytan/CV-Web-Application/assets/95499415/bbff4978-f132-480a-98f0-6e626597318e
+
+
 
 
 
